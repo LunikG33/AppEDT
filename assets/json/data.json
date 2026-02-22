@@ -1,0 +1,6209 @@
+{
+    "INF401A41": {
+        "Subjects": [
+            "4TTV402U Sport",
+            "4TTV403U Pratique Théâtrale",
+            "4TTV426U S4 Explain in English",
+            "4TTVP52U Anglais débutant 1 Print",
+            "4TTVP54U Anglais Débutant 2 Print",
+            "4TTVP32U Echange Virtuel Stanford",
+            "4TTV424U Int Eloquence Français S4",
+            "4TIN402U Algo structures données arborescentes",
+            "4TIN403U Projets technologiques",
+            "4TIN410U Programmation Orientée Objet",
+            "4TTVP31U Informatique et Société",
+            "4TTV419U Projet Interculturel",
+            "4TIN408U Architectures Ordinateurs",
+            "Présentation semestre",
+            "4TTV323U Filmer la science",
+            "Réunion",
+            "Forum"
+        ],
+        "2026-01-13": {
+            "0": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV402U Sport",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Atelier"
+            },
+            "1": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV403U Pratique Théâtrale",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 001"
+                ],
+                "enventCategory": "Atelier"
+            },
+            "2": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Charles DARWIN"
+                ],
+                "enventCategory": "Cours"
+            },
+            "3": {
+                "start_time": "12:30",
+                "end_time": "13:30",
+                "name": "Présentation semestre",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Charles DARWIN"
+                ],
+                "enventCategory": "Présentation"
+            },
+            "4": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV402U Sport",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Atelier"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV403U Pratique Théâtrale",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 001"
+                ],
+                "enventCategory": "Atelier"
+            },
+            "6": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Charles DARWIN"
+                ],
+                "enventCategory": "Cours"
+            },
+            "7": {
+                "start_time": "12:30",
+                "end_time": "13:30",
+                "name": "Présentation semestre",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Charles DARWIN"
+                ],
+                "enventCategory": "Présentation"
+            }
+        },
+        "2026-01-20": {
+            "0": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV402U Sport",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Atelier"
+            },
+            "1": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV403U Pratique Théâtrale",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 001"
+                ],
+                "enventCategory": "Atelier"
+            },
+            "2": {
+                "start_time": "17:00",
+                "end_time": "18:20",
+                "name": "4TTVP31U Informatique et Société",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours/TD"
+            },
+            "3": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV402U Sport",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Atelier"
+            },
+            "4": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV403U Pratique Théâtrale",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 001"
+                ],
+                "enventCategory": "Atelier"
+            },
+            "5": {
+                "start_time": "17:00",
+                "end_time": "18:20",
+                "name": "4TTVP31U Informatique et Société",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours/TD"
+            }
+        },
+        "2026-01-27": {
+            "0": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV402U Sport",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Atelier"
+            },
+            "1": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV403U Pratique Théâtrale",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 001"
+                ],
+                "enventCategory": "Atelier"
+            },
+            "2": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP52U Anglais débutant 1 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 150",
+                    "Salle 151"
+                ],
+                "enventCategory": "TD"
+            },
+            "3": {
+                "start_time": "17:00",
+                "end_time": "18:20",
+                "name": "4TTVP31U Informatique et Société",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Amphithéâtre A"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "4": {
+                "start_time": "18:30",
+                "end_time": "20:00",
+                "name": "4TTV419U Projet Interculturel",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 160"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV402U Sport",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Atelier"
+            },
+            "6": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV403U Pratique Théâtrale",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 001"
+                ],
+                "enventCategory": "Atelier"
+            },
+            "7": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP52U Anglais débutant 1 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 150",
+                    "Salle 151"
+                ],
+                "enventCategory": "TD"
+            },
+            "8": {
+                "start_time": "17:00",
+                "end_time": "18:20",
+                "name": "4TTVP31U Informatique et Société",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Amphithéâtre A"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "9": {
+                "start_time": "18:30",
+                "end_time": "20:00",
+                "name": "4TTV419U Projet Interculturel",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 160"
+                ],
+                "enventCategory": "Cours/TD"
+            }
+        },
+        "2026-01-21": {
+            "0": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 160"
+                ],
+                "enventCategory": "TD"
+            },
+            "1": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP32U Echange Virtuel Stanford",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "TD"
+            },
+            "2": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTV424U Int Eloquence Français S4",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 301"
+                ],
+                "enventCategory": "TD"
+            },
+            "3": {
+                "start_time": "08:00",
+                "end_time": "10:50",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 102"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "4": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 206"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "5": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 155"
+                ],
+                "enventCategory": "TD"
+            },
+            "6": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 160"
+                ],
+                "enventCategory": "TD"
+            },
+            "7": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP32U Echange Virtuel Stanford",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "TD"
+            },
+            "8": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTV424U Int Eloquence Français S4",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 301"
+                ],
+                "enventCategory": "TD"
+            },
+            "9": {
+                "start_time": "08:00",
+                "end_time": "10:50",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 102"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "10": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 206"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "11": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 155"
+                ],
+                "enventCategory": "TD"
+            }
+        },
+        "2026-01-28": {
+            "0": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "1": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP32U Echange Virtuel Stanford",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "TD"
+            },
+            "2": {
+                "start_time": "08:00",
+                "end_time": "09:20",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 307"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "3": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 102"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "4": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 206"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "5": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 152"
+                ],
+                "enventCategory": "TD"
+            },
+            "6": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "7": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP32U Echange Virtuel Stanford",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "TD"
+            },
+            "8": {
+                "start_time": "08:00",
+                "end_time": "09:20",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 307"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "9": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 102"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "10": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 206"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "11": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 152"
+                ],
+                "enventCategory": "TD"
+            }
+        },
+        "2026-01-19": {
+            "0": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP54U Anglais Débutant 2 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "1": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 009",
+                    "Salle 101",
+                    "Salle 102",
+                    "Salle 105"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "2": {
+                "start_time": "17:00",
+                "end_time": "18:20",
+                "name": "4TTVP31U Informatique et Société",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours/TD"
+            },
+            "3": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP54U Anglais Débutant 2 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "4": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 009",
+                    "Salle 101",
+                    "Salle 102",
+                    "Salle 105"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "5": {
+                "start_time": "17:00",
+                "end_time": "18:20",
+                "name": "4TTVP31U Informatique et Société",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours/TD"
+            }
+        },
+        "2026-01-26": {
+            "0": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP54U Anglais Débutant 2 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "1": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 009",
+                    "Salle 101",
+                    "Salle 102",
+                    "Salle 105"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "2": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Thomas EDISON"
+                ],
+                "enventCategory": "Cours"
+            },
+            "3": {
+                "start_time": "08:00",
+                "end_time": "09:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            },
+            "4": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            },
+            "5": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP54U Anglais Débutant 2 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "6": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 009",
+                    "Salle 101",
+                    "Salle 102",
+                    "Salle 105"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "7": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Thomas EDISON"
+                ],
+                "enventCategory": "Cours"
+            },
+            "8": {
+                "start_time": "08:00",
+                "end_time": "09:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            },
+            "9": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            }
+        },
+        "2026-01-14": {
+            "0": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP32U Echange Virtuel Stanford",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "TD"
+            },
+            "1": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            },
+            "2": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            },
+            "3": {
+                "start_time": "17:30",
+                "end_time": "19:50",
+                "name": "4TTV323U Filmer la science",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Amphithéâtre A"
+                ],
+                "enventCategory": "Oraux"
+            },
+            "4": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP32U Echange Virtuel Stanford",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "TD"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            },
+            "6": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            },
+            "7": {
+                "start_time": "17:30",
+                "end_time": "19:50",
+                "name": "4TTV323U Filmer la science",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Amphithéâtre A"
+                ],
+                "enventCategory": "Oraux"
+            }
+        },
+        "2026-01-15": {
+            "0": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Charles DARWIN"
+                ],
+                "enventCategory": "Cours"
+            },
+            "1": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Charles DARWIN"
+                ],
+                "enventCategory": "Cours"
+            }
+        },
+        "2026-01-29": {
+            "0": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Thomas EDISON"
+                ],
+                "enventCategory": "Cours"
+            },
+            "1": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Thomas EDISON"
+                ],
+                "enventCategory": "Cours"
+            }
+        },
+        "2026-01-12": {
+            "0": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 005",
+                    "Salle 105",
+                    "Salle 201",
+                    "Salle 204"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "1": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Henri POINCARE"
+                ],
+                "enventCategory": "Cours"
+            },
+            "2": {
+                "start_time": "08:00",
+                "end_time": "09:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            },
+            "3": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            },
+            "4": {
+                "start_time": "17:30",
+                "end_time": "19:50",
+                "name": "4TTV323U Filmer la science",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Amphithéâtre A"
+                ],
+                "enventCategory": "Oraux"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 005",
+                    "Salle 105",
+                    "Salle 201",
+                    "Salle 204"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "6": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Henri POINCARE"
+                ],
+                "enventCategory": "Cours"
+            },
+            "7": {
+                "start_time": "08:00",
+                "end_time": "09:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            },
+            "8": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            },
+            "9": {
+                "start_time": "17:30",
+                "end_time": "19:50",
+                "name": "4TTV323U Filmer la science",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Amphithéâtre A"
+                ],
+                "enventCategory": "Oraux"
+            }
+        },
+        "2026-01-23": {
+            "0": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 107"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "1": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 005"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "2": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 206",
+                    "Salle 207"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "3": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 107"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "4": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 005"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 206",
+                    "Salle 207"
+                ],
+                "enventCategory": "TD Machine"
+            }
+        },
+        "2026-01-30": {
+            "0": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 107"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "1": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 005"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "2": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 207",
+                    "Salle 208"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "3": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 107"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "4": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 005"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 207",
+                    "Salle 208"
+                ],
+                "enventCategory": "TD Machine"
+            }
+        },
+        "2026-01-01": {
+            "0": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            },
+            "1": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            }
+        },
+        "2026-01-02": {
+            "0": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            },
+            "1": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            }
+        },
+        "2026-01-03": {
+            "0": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            },
+            "1": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            }
+        },
+        "2026-01-04": {
+            "0": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            },
+            "1": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            }
+        },
+        "2026-02-03": {
+            "0": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV402U Sport",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Atelier"
+            },
+            "1": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV403U Pratique Théâtrale",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 001"
+                ],
+                "enventCategory": "Atelier"
+            },
+            "2": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP52U Anglais débutant 1 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 150",
+                    "Salle 151"
+                ],
+                "enventCategory": "TD"
+            },
+            "3": {
+                "start_time": "17:00",
+                "end_time": "18:20",
+                "name": "4TTVP31U Informatique et Société",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Amphithéâtre A"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "4": {
+                "start_time": "18:30",
+                "end_time": "20:00",
+                "name": "4TTV419U Projet Interculturel",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 160"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV402U Sport",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Atelier"
+            },
+            "6": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV403U Pratique Théâtrale",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 001"
+                ],
+                "enventCategory": "Atelier"
+            },
+            "7": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP52U Anglais débutant 1 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 150",
+                    "Salle 151"
+                ],
+                "enventCategory": "TD"
+            },
+            "8": {
+                "start_time": "17:00",
+                "end_time": "18:20",
+                "name": "4TTVP31U Informatique et Société",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Amphithéâtre A"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "9": {
+                "start_time": "18:30",
+                "end_time": "20:00",
+                "name": "4TTV419U Projet Interculturel",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 160"
+                ],
+                "enventCategory": "Cours/TD"
+            }
+        },
+        "2026-02-10": {
+            "0": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV402U Sport",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Atelier"
+            },
+            "1": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV403U Pratique Théâtrale",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 001"
+                ],
+                "enventCategory": "Atelier"
+            },
+            "2": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP52U Anglais débutant 1 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 150",
+                    "Salle 151"
+                ],
+                "enventCategory": "TD"
+            },
+            "3": {
+                "start_time": "17:00",
+                "end_time": "18:20",
+                "name": "4TTVP31U Informatique et Société",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Amphithéâtre A"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "4": {
+                "start_time": "18:30",
+                "end_time": "20:00",
+                "name": "4TTV419U Projet Interculturel",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 160"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV402U Sport",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Atelier"
+            },
+            "6": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV403U Pratique Théâtrale",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 001"
+                ],
+                "enventCategory": "Atelier"
+            },
+            "7": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP52U Anglais débutant 1 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 150",
+                    "Salle 151"
+                ],
+                "enventCategory": "TD"
+            },
+            "8": {
+                "start_time": "17:00",
+                "end_time": "18:20",
+                "name": "4TTVP31U Informatique et Société",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Amphithéâtre A"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "9": {
+                "start_time": "18:30",
+                "end_time": "20:00",
+                "name": "4TTV419U Projet Interculturel",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 160"
+                ],
+                "enventCategory": "Cours/TD"
+            }
+        },
+        "2026-02-24": {
+            "0": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV402U Sport",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Atelier"
+            },
+            "1": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV403U Pratique Théâtrale",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 001"
+                ],
+                "enventCategory": "Atelier"
+            },
+            "2": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP52U Anglais débutant 1 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 150",
+                    "Salle 151"
+                ],
+                "enventCategory": "TD"
+            },
+            "3": {
+                "start_time": "17:00",
+                "end_time": "18:20",
+                "name": "4TTVP31U Informatique et Société",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Amphithéâtre A"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "4": {
+                "start_time": "18:30",
+                "end_time": "20:00",
+                "name": "4TTV419U Projet Interculturel",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 160"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "5": {
+                "start_time": "12:30",
+                "end_time": "14:00",
+                "name": "4TTV419U Projet Interculturel",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 160"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "6": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV402U Sport",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Atelier"
+            },
+            "7": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV403U Pratique Théâtrale",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 001"
+                ],
+                "enventCategory": "Atelier"
+            },
+            "8": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP52U Anglais débutant 1 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 150",
+                    "Salle 151"
+                ],
+                "enventCategory": "TD"
+            },
+            "9": {
+                "start_time": "17:00",
+                "end_time": "18:20",
+                "name": "4TTVP31U Informatique et Société",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Amphithéâtre A"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "10": {
+                "start_time": "18:30",
+                "end_time": "20:00",
+                "name": "4TTV419U Projet Interculturel",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 160"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "11": {
+                "start_time": "12:30",
+                "end_time": "14:00",
+                "name": "4TTV419U Projet Interculturel",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 160"
+                ],
+                "enventCategory": "Cours/TD"
+            }
+        },
+        "2026-02-04": {
+            "0": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "1": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP32U Echange Virtuel Stanford",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "TD"
+            },
+            "2": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTV424U Int Eloquence Français S4",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 153"
+                ],
+                "enventCategory": "TD"
+            },
+            "3": {
+                "start_time": "08:00",
+                "end_time": "10:50",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 311"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "4": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 206"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "5": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 152"
+                ],
+                "enventCategory": "TD"
+            },
+            "6": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "7": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP32U Echange Virtuel Stanford",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "TD"
+            },
+            "8": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTV424U Int Eloquence Français S4",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 153"
+                ],
+                "enventCategory": "TD"
+            },
+            "9": {
+                "start_time": "08:00",
+                "end_time": "10:50",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 311"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "10": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 206"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "11": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 152"
+                ],
+                "enventCategory": "TD"
+            }
+        },
+        "2026-02-11": {
+            "0": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "1": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP32U Echange Virtuel Stanford",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "TD"
+            },
+            "2": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTV424U Int Eloquence Français S4",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 153"
+                ],
+                "enventCategory": "TD"
+            },
+            "3": {
+                "start_time": "08:00",
+                "end_time": "09:20",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 307"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "4": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 102"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 206"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "6": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 152"
+                ],
+                "enventCategory": "TD"
+            },
+            "7": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "8": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP32U Echange Virtuel Stanford",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "TD"
+            },
+            "9": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTV424U Int Eloquence Français S4",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 153"
+                ],
+                "enventCategory": "TD"
+            },
+            "10": {
+                "start_time": "08:00",
+                "end_time": "09:20",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 307"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "11": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 102"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "12": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 206"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "13": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 152"
+                ],
+                "enventCategory": "TD"
+            }
+        },
+        "2026-02-25": {
+            "0": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "1": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP32U Echange Virtuel Stanford",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "TD"
+            },
+            "2": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTV424U Int Eloquence Français S4",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 153"
+                ],
+                "enventCategory": "TD"
+            },
+            "3": {
+                "start_time": "08:00",
+                "end_time": "09:20",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 307"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "4": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 102"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 206"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "6": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 152"
+                ],
+                "enventCategory": "TD"
+            },
+            "7": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "8": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP32U Echange Virtuel Stanford",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "TD"
+            },
+            "9": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTV424U Int Eloquence Français S4",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 153"
+                ],
+                "enventCategory": "TD"
+            },
+            "10": {
+                "start_time": "08:00",
+                "end_time": "09:20",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 307"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "11": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 102"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "12": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 206"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "13": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 152"
+                ],
+                "enventCategory": "TD"
+            }
+        },
+        "2026-02-02": {
+            "0": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP54U Anglais Débutant 2 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "1": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 009",
+                    "Salle 101",
+                    "Salle 102",
+                    "Salle 105"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "2": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Thomas EDISON"
+                ],
+                "enventCategory": "Cours"
+            },
+            "3": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            },
+            "4": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP54U Anglais Débutant 2 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 009",
+                    "Salle 101",
+                    "Salle 102",
+                    "Salle 105"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "6": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Thomas EDISON"
+                ],
+                "enventCategory": "Cours"
+            },
+            "7": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            }
+        },
+        "2026-02-09": {
+            "0": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP54U Anglais Débutant 2 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "1": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 009",
+                    "Salle 101",
+                    "Salle 102",
+                    "Salle 105"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "2": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Thomas EDISON"
+                ],
+                "enventCategory": "Cours"
+            },
+            "3": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            },
+            "4": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP54U Anglais Débutant 2 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 009",
+                    "Salle 101",
+                    "Salle 102",
+                    "Salle 105"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "6": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Thomas EDISON"
+                ],
+                "enventCategory": "Cours"
+            },
+            "7": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            }
+        },
+        "2026-02-23": {
+            "0": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP54U Anglais Débutant 2 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "1": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 009",
+                    "Salle 101",
+                    "Salle 102",
+                    "Salle 105"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "2": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Thomas EDISON"
+                ],
+                "enventCategory": "Cours"
+            },
+            "3": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            },
+            "4": {
+                "start_time": "17:00",
+                "end_time": "18:20",
+                "name": "Réunion",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Rosalind FRANKLIN"
+                ],
+                "enventCategory": "Réunion"
+            },
+            "5": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP54U Anglais Débutant 2 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "6": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 009",
+                    "Salle 101",
+                    "Salle 102",
+                    "Salle 105"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "7": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Thomas EDISON"
+                ],
+                "enventCategory": "Cours"
+            },
+            "8": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            },
+            "9": {
+                "start_time": "17:00",
+                "end_time": "18:20",
+                "name": "Réunion",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Rosalind FRANKLIN"
+                ],
+                "enventCategory": "Réunion"
+            }
+        },
+        "2026-02-05": {
+            "0": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Thomas EDISON"
+                ],
+                "enventCategory": "Cours"
+            },
+            "1": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Thomas EDISON"
+                ],
+                "enventCategory": "Cours"
+            }
+        },
+        "2026-02-12": {
+            "0": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Thomas EDISON"
+                ],
+                "enventCategory": "Cours"
+            },
+            "1": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Thomas EDISON"
+                ],
+                "enventCategory": "Cours"
+            }
+        },
+        "2026-02-26": {
+            "0": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Thomas EDISON"
+                ],
+                "enventCategory": "Cours"
+            },
+            "1": {
+                "start_time": "08:00",
+                "end_time": "09:30",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Salle 96",
+                    "Amphithéâtre Henri POINCARE",
+                    "Amphithéâtre Rosalind FRANKLIN"
+                ],
+                "enventCategory": "DS"
+            },
+            "2": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Thomas EDISON"
+                ],
+                "enventCategory": "Cours"
+            },
+            "3": {
+                "start_time": "08:00",
+                "end_time": "09:30",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Salle 96",
+                    "Amphithéâtre Henri POINCARE",
+                    "Amphithéâtre Rosalind FRANKLIN"
+                ],
+                "enventCategory": "DS"
+            }
+        },
+        "2026-02-06": {
+            "0": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 107"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "1": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 005"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "2": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 207",
+                    "Salle 208"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "3": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 107"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "4": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 005"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 207",
+                    "Salle 208"
+                ],
+                "enventCategory": "TD Machine"
+            }
+        },
+        "2026-02-13": {
+            "0": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 107"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "1": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 005"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "2": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 207",
+                    "Salle 208"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "3": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 107"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "4": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 005"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 207",
+                    "Salle 208"
+                ],
+                "enventCategory": "TD Machine"
+            }
+        },
+        "2026-02-27": {
+            "0": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 107"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "1": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 005"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "2": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Henri POINCARE"
+                ],
+                "enventCategory": "Cours"
+            },
+            "3": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 107"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "4": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 005"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Henri POINCARE"
+                ],
+                "enventCategory": "Cours"
+            }
+        },
+        "2026-02-16": {
+            "0": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            },
+            "1": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            }
+        },
+        "2026-02-17": {
+            "0": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            },
+            "1": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            }
+        },
+        "2026-02-18": {
+            "0": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            },
+            "1": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            }
+        },
+        "2026-02-19": {
+            "0": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            },
+            "1": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            }
+        },
+        "2026-02-20": {
+            "0": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            },
+            "1": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            }
+        },
+        "2026-02-21": {
+            "0": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            },
+            "1": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            }
+        },
+        "2026-02-22": {
+            "0": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            },
+            "1": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            }
+        },
+        "2026-03-03": {
+            "0": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV402U Sport",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Atelier"
+            },
+            "1": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV403U Pratique Théâtrale",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 001"
+                ],
+                "enventCategory": "Atelier"
+            },
+            "2": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP52U Anglais débutant 1 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 150",
+                    "Salle 151"
+                ],
+                "enventCategory": "TD"
+            },
+            "3": {
+                "start_time": "17:00",
+                "end_time": "18:20",
+                "name": "4TTVP31U Informatique et Société",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Amphithéâtre A"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "4": {
+                "start_time": "18:30",
+                "end_time": "20:00",
+                "name": "4TTV419U Projet Interculturel",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 160"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "5": {
+                "start_time": "12:30",
+                "end_time": "14:00",
+                "name": "4TTV419U Projet Interculturel",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 160"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "6": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV402U Sport",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Atelier"
+            },
+            "7": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV403U Pratique Théâtrale",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 001"
+                ],
+                "enventCategory": "Atelier"
+            },
+            "8": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP52U Anglais débutant 1 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 150",
+                    "Salle 151"
+                ],
+                "enventCategory": "TD"
+            },
+            "9": {
+                "start_time": "17:00",
+                "end_time": "18:20",
+                "name": "4TTVP31U Informatique et Société",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Amphithéâtre A"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "10": {
+                "start_time": "18:30",
+                "end_time": "20:00",
+                "name": "4TTV419U Projet Interculturel",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 160"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "11": {
+                "start_time": "12:30",
+                "end_time": "14:00",
+                "name": "4TTV419U Projet Interculturel",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 160"
+                ],
+                "enventCategory": "Cours/TD"
+            }
+        },
+        "2026-03-10": {
+            "0": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV402U Sport",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Atelier"
+            },
+            "1": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV403U Pratique Théâtrale",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 001"
+                ],
+                "enventCategory": "Atelier"
+            },
+            "2": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP52U Anglais débutant 1 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 150",
+                    "Salle 151"
+                ],
+                "enventCategory": "TD"
+            },
+            "3": {
+                "start_time": "17:00",
+                "end_time": "18:20",
+                "name": "4TTVP31U Informatique et Société",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Amphithéâtre A"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "4": {
+                "start_time": "18:30",
+                "end_time": "20:00",
+                "name": "4TTV419U Projet Interculturel",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 160"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV402U Sport",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Atelier"
+            },
+            "6": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV403U Pratique Théâtrale",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 001"
+                ],
+                "enventCategory": "Atelier"
+            },
+            "7": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP52U Anglais débutant 1 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 150",
+                    "Salle 151"
+                ],
+                "enventCategory": "TD"
+            },
+            "8": {
+                "start_time": "17:00",
+                "end_time": "18:20",
+                "name": "4TTVP31U Informatique et Société",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Amphithéâtre A"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "9": {
+                "start_time": "18:30",
+                "end_time": "20:00",
+                "name": "4TTV419U Projet Interculturel",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 160"
+                ],
+                "enventCategory": "Cours/TD"
+            }
+        },
+        "2026-03-17": {
+            "0": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV402U Sport",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Atelier"
+            },
+            "1": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV403U Pratique Théâtrale",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 001"
+                ],
+                "enventCategory": "Atelier"
+            },
+            "2": {
+                "start_time": "17:00",
+                "end_time": "18:20",
+                "name": "4TTVP31U Informatique et Société",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours/TD"
+            },
+            "3": {
+                "start_time": "18:30",
+                "end_time": "20:00",
+                "name": "4TTV419U Projet Interculturel",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 160"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "4": {
+                "start_time": "12:30",
+                "end_time": "14:00",
+                "name": "4TTV419U Projet Interculturel",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 160"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV402U Sport",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Atelier"
+            },
+            "6": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV403U Pratique Théâtrale",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 001"
+                ],
+                "enventCategory": "Atelier"
+            },
+            "7": {
+                "start_time": "17:00",
+                "end_time": "18:20",
+                "name": "4TTVP31U Informatique et Société",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours/TD"
+            },
+            "8": {
+                "start_time": "18:30",
+                "end_time": "20:00",
+                "name": "4TTV419U Projet Interculturel",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 160"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "9": {
+                "start_time": "12:30",
+                "end_time": "14:00",
+                "name": "4TTV419U Projet Interculturel",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 160"
+                ],
+                "enventCategory": "Cours/TD"
+            }
+        },
+        "2026-03-24": {
+            "0": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV402U Sport",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Atelier"
+            },
+            "1": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV403U Pratique Théâtrale",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 001"
+                ],
+                "enventCategory": "Atelier"
+            },
+            "2": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP52U Anglais débutant 1 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 150",
+                    "Salle 151"
+                ],
+                "enventCategory": "TD"
+            },
+            "3": {
+                "start_time": "17:00",
+                "end_time": "18:20",
+                "name": "4TTVP31U Informatique et Société",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Amphithéâtre A"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "4": {
+                "start_time": "18:30",
+                "end_time": "20:00",
+                "name": "4TTV419U Projet Interculturel",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 160"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV402U Sport",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Atelier"
+            },
+            "6": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV403U Pratique Théâtrale",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 001"
+                ],
+                "enventCategory": "Atelier"
+            },
+            "7": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP52U Anglais débutant 1 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 150",
+                    "Salle 151"
+                ],
+                "enventCategory": "TD"
+            },
+            "8": {
+                "start_time": "17:00",
+                "end_time": "18:20",
+                "name": "4TTVP31U Informatique et Société",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Amphithéâtre A"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "9": {
+                "start_time": "18:30",
+                "end_time": "20:00",
+                "name": "4TTV419U Projet Interculturel",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 160"
+                ],
+                "enventCategory": "Cours/TD"
+            }
+        },
+        "2026-03-31": {
+            "0": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV402U Sport",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Atelier"
+            },
+            "1": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV403U Pratique Théâtrale",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 001"
+                ],
+                "enventCategory": "Atelier"
+            },
+            "2": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP52U Anglais débutant 1 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 150",
+                    "Salle 151"
+                ],
+                "enventCategory": "TD"
+            },
+            "3": {
+                "start_time": "17:00",
+                "end_time": "18:20",
+                "name": "4TTVP31U Informatique et Société",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Amphithéâtre A"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "4": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV402U Sport",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Atelier"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV403U Pratique Théâtrale",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 001"
+                ],
+                "enventCategory": "Atelier"
+            },
+            "6": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP52U Anglais débutant 1 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 150",
+                    "Salle 151"
+                ],
+                "enventCategory": "TD"
+            },
+            "7": {
+                "start_time": "17:00",
+                "end_time": "18:20",
+                "name": "4TTVP31U Informatique et Société",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Amphithéâtre A"
+                ],
+                "enventCategory": "Cours/TD"
+            }
+        },
+        "2026-03-04": {
+            "0": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "1": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP32U Echange Virtuel Stanford",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "TD"
+            },
+            "2": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTV424U Int Eloquence Français S4",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 153"
+                ],
+                "enventCategory": "TD"
+            },
+            "3": {
+                "start_time": "08:00",
+                "end_time": "09:20",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 307"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "4": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 102"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 206"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "6": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 152"
+                ],
+                "enventCategory": "TD"
+            },
+            "7": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "8": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP32U Echange Virtuel Stanford",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "TD"
+            },
+            "9": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTV424U Int Eloquence Français S4",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 153"
+                ],
+                "enventCategory": "TD"
+            },
+            "10": {
+                "start_time": "08:00",
+                "end_time": "09:20",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 307"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "11": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 102"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "12": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 206"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "13": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 152"
+                ],
+                "enventCategory": "TD"
+            }
+        },
+        "2026-03-11": {
+            "0": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "1": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP32U Echange Virtuel Stanford",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "TD"
+            },
+            "2": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTV424U Int Eloquence Français S4",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 153"
+                ],
+                "enventCategory": "TD"
+            },
+            "3": {
+                "start_time": "08:00",
+                "end_time": "10:50",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 311"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "4": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 152"
+                ],
+                "enventCategory": "TD"
+            },
+            "5": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "6": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP32U Echange Virtuel Stanford",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "TD"
+            },
+            "7": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTV424U Int Eloquence Français S4",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 153"
+                ],
+                "enventCategory": "TD"
+            },
+            "8": {
+                "start_time": "08:00",
+                "end_time": "10:50",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 311"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "9": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 152"
+                ],
+                "enventCategory": "TD"
+            }
+        },
+        "2026-03-18": {
+            "0": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "1": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP32U Echange Virtuel Stanford",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "TD"
+            },
+            "2": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTV424U Int Eloquence Français S4",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 153"
+                ],
+                "enventCategory": "TD"
+            },
+            "3": {
+                "start_time": "08:00",
+                "end_time": "09:20",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 307"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "4": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 102"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 206"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "6": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 152"
+                ],
+                "enventCategory": "TD"
+            },
+            "7": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "8": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP32U Echange Virtuel Stanford",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "TD"
+            },
+            "9": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTV424U Int Eloquence Français S4",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 153"
+                ],
+                "enventCategory": "TD"
+            },
+            "10": {
+                "start_time": "08:00",
+                "end_time": "09:20",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 307"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "11": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 102"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "12": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 206"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "13": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 152"
+                ],
+                "enventCategory": "TD"
+            }
+        },
+        "2026-03-25": {
+            "0": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "1": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP32U Echange Virtuel Stanford",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "TD"
+            },
+            "2": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTV424U Int Eloquence Français S4",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 153"
+                ],
+                "enventCategory": "TD"
+            },
+            "3": {
+                "start_time": "08:00",
+                "end_time": "10:50",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 311"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "4": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 206"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "5": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 152"
+                ],
+                "enventCategory": "TD"
+            },
+            "6": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "7": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP32U Echange Virtuel Stanford",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "TD"
+            },
+            "8": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTV424U Int Eloquence Français S4",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 153"
+                ],
+                "enventCategory": "TD"
+            },
+            "9": {
+                "start_time": "08:00",
+                "end_time": "10:50",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 311"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "10": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 206"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "11": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 152"
+                ],
+                "enventCategory": "TD"
+            }
+        },
+        "2026-03-02": {
+            "0": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP54U Anglais Débutant 2 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "1": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 009",
+                    "Salle 101",
+                    "Salle 102",
+                    "Salle 105"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "2": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Thomas EDISON"
+                ],
+                "enventCategory": "Cours"
+            },
+            "3": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            },
+            "4": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP54U Anglais Débutant 2 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 009",
+                    "Salle 101",
+                    "Salle 102",
+                    "Salle 105"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "6": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Thomas EDISON"
+                ],
+                "enventCategory": "Cours"
+            },
+            "7": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            }
+        },
+        "2026-03-09": {
+            "0": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP54U Anglais Débutant 2 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "1": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 009",
+                    "Salle 101",
+                    "Salle 102",
+                    "Salle 105"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "2": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Amphithéâtre A"
+                ],
+                "enventCategory": "Cours"
+            },
+            "3": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            },
+            "4": {
+                "start_time": "08:00",
+                "end_time": "09:20",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            },
+            "5": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP54U Anglais Débutant 2 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "6": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 009",
+                    "Salle 101",
+                    "Salle 102",
+                    "Salle 105"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "7": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Amphithéâtre A"
+                ],
+                "enventCategory": "Cours"
+            },
+            "8": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            },
+            "9": {
+                "start_time": "08:00",
+                "end_time": "09:20",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            }
+        },
+        "2026-03-16": {
+            "0": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP54U Anglais Débutant 2 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "1": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 009",
+                    "Salle 101",
+                    "Salle 102",
+                    "Salle 105"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "2": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP54U Anglais Débutant 2 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "3": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 009",
+                    "Salle 101",
+                    "Salle 102",
+                    "Salle 105"
+                ],
+                "enventCategory": "TD Machine"
+            }
+        },
+        "2026-03-23": {
+            "0": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP54U Anglais Débutant 2 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "1": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 009",
+                    "Salle 101",
+                    "Salle 102",
+                    "Salle 105"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "2": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment B18"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            },
+            "3": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment B18"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            },
+            "4": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP52U Anglais débutant 1 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 155",
+                    "Salle 156"
+                ],
+                "enventCategory": "TD"
+            },
+            "5": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP54U Anglais Débutant 2 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "6": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 009",
+                    "Salle 101",
+                    "Salle 102",
+                    "Salle 105"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "7": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment B18"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            },
+            "8": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment B18"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            },
+            "9": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP52U Anglais débutant 1 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 155",
+                    "Salle 156"
+                ],
+                "enventCategory": "TD"
+            }
+        },
+        "2026-03-30": {
+            "0": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP54U Anglais Débutant 2 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "1": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 009",
+                    "Salle 101",
+                    "Salle 102",
+                    "Salle 105"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "2": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Henri POINCARE"
+                ],
+                "enventCategory": "Cours"
+            },
+            "3": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            },
+            "4": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP52U Anglais débutant 1 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 155",
+                    "Salle 156"
+                ],
+                "enventCategory": "TD"
+            },
+            "5": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP54U Anglais Débutant 2 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "6": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 009",
+                    "Salle 101",
+                    "Salle 102",
+                    "Salle 105"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "7": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Henri POINCARE"
+                ],
+                "enventCategory": "Cours"
+            },
+            "8": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            },
+            "9": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP52U Anglais débutant 1 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 155",
+                    "Salle 156"
+                ],
+                "enventCategory": "TD"
+            }
+        },
+        "2026-03-05": {
+            "0": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Thomas EDISON"
+                ],
+                "enventCategory": "Cours"
+            },
+            "1": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Thomas EDISON"
+                ],
+                "enventCategory": "Cours"
+            }
+        },
+        "2026-03-12": {
+            "0": {
+                "start_time": "11:00",
+                "end_time": "12:30",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A33",
+                    "Bâtiment A9"
+                ],
+                "rooms": [],
+                "enventCategory": "DS"
+            },
+            "1": {
+                "start_time": "11:00",
+                "end_time": "13:00",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A9"
+                ],
+                "rooms": [],
+                "enventCategory": "DS"
+            },
+            "2": {
+                "start_time": "08:00",
+                "end_time": "09:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Rosalind FRANKLIN"
+                ],
+                "enventCategory": "Cours"
+            },
+            "3": {
+                "start_time": "12:30",
+                "end_time": "13:00",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A9"
+                ],
+                "rooms": [],
+                "enventCategory": "DS"
+            },
+            "4": {
+                "start_time": "11:00",
+                "end_time": "12:30",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A9",
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "DS"
+            },
+            "5": {
+                "start_time": "11:00",
+                "end_time": "13:00",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A9"
+                ],
+                "rooms": [],
+                "enventCategory": "DS"
+            },
+            "6": {
+                "start_time": "08:00",
+                "end_time": "09:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Rosalind FRANKLIN"
+                ],
+                "enventCategory": "Cours"
+            },
+            "7": {
+                "start_time": "12:30",
+                "end_time": "13:00",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A9"
+                ],
+                "rooms": [],
+                "enventCategory": "DS"
+            }
+        },
+        "2026-03-13": {
+            "0": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 204"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "1": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 107"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "2": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 005"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "3": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 204"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "4": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 107"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "5": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 005"
+                ],
+                "enventCategory": "TD Machine"
+            }
+        },
+        "2026-03-06": {
+            "0": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 107"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "1": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 005"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "2": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 207",
+                    "Salle 208"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "3": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 107"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "4": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 005"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 207",
+                    "Salle 208"
+                ],
+                "enventCategory": "TD Machine"
+            }
+        },
+        "2026-03-20": {
+            "0": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 107"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "1": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 005"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "2": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 207",
+                    "Salle 208"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "3": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 107"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "4": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 005"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 207",
+                    "Salle 208"
+                ],
+                "enventCategory": "TD Machine"
+            }
+        },
+        "2026-03-27": {
+            "0": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 107"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "1": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 005"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "2": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 007",
+                    "Salle 008"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "3": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 107"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "4": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 005"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 007",
+                    "Salle 008"
+                ],
+                "enventCategory": "TD Machine"
+            }
+        },
+        "2026-04-07": {
+            "0": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV402U Sport",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Atelier"
+            },
+            "1": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV403U Pratique Théâtrale",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 001"
+                ],
+                "enventCategory": "Atelier"
+            },
+            "2": {
+                "start_time": "08:00",
+                "end_time": "09:20",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Thomas EDISON"
+                ],
+                "enventCategory": "Cours"
+            },
+            "3": {
+                "start_time": "17:00",
+                "end_time": "18:20",
+                "name": "4TTVP31U Informatique et Société",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Amphithéâtre A"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "4": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV402U Sport",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Atelier"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TTV403U Pratique Théâtrale",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 001"
+                ],
+                "enventCategory": "Atelier"
+            },
+            "6": {
+                "start_time": "08:00",
+                "end_time": "09:20",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A22"
+                ],
+                "rooms": [
+                    "Amphithéâtre Thomas EDISON"
+                ],
+                "enventCategory": "Cours"
+            },
+            "7": {
+                "start_time": "17:00",
+                "end_time": "18:20",
+                "name": "4TTVP31U Informatique et Société",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Amphithéâtre A"
+                ],
+                "enventCategory": "Cours/TD"
+            }
+        },
+        "2026-04-01": {
+            "0": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "1": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP32U Echange Virtuel Stanford",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "TD"
+            },
+            "2": {
+                "start_time": "08:00",
+                "end_time": "09:20",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 307"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "3": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 102"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "4": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 206"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "5": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 152"
+                ],
+                "enventCategory": "TD"
+            },
+            "6": {
+                "start_time": "11:30",
+                "end_time": "14:30",
+                "name": "Forum",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Forum"
+            },
+            "7": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "8": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP32U Echange Virtuel Stanford",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "TD"
+            },
+            "9": {
+                "start_time": "08:00",
+                "end_time": "09:20",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 307"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "10": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 102"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "11": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 206"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "12": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 152"
+                ],
+                "enventCategory": "TD"
+            },
+            "13": {
+                "start_time": "11:30",
+                "end_time": "14:30",
+                "name": "Forum",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Forum"
+            }
+        },
+        "2026-04-20": {
+            "0": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP54U Anglais Débutant 2 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "1": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP54U Anglais Débutant 2 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            }
+        },
+        "2026-04-27": {
+            "0": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP54U Anglais Débutant 2 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            },
+            "1": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP54U Anglais Débutant 2 Print",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 154"
+                ],
+                "enventCategory": "TD"
+            }
+        },
+        "2026-04-08": {
+            "0": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP32U Echange Virtuel Stanford",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "TD"
+            },
+            "1": {
+                "start_time": "08:00",
+                "end_time": "10:50",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 311"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "2": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 009",
+                    "Salle 101",
+                    "Salle 102",
+                    "Salle 104"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "3": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 206"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "4": {
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "name": "4TTVP32U Echange Virtuel Stanford",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "TD"
+            },
+            "5": {
+                "start_time": "08:00",
+                "end_time": "10:50",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 311"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "6": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 009",
+                    "Salle 101",
+                    "Salle 102",
+                    "Salle 104"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "7": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 206"
+                ],
+                "enventCategory": "TD Machine"
+            }
+        },
+        "2026-04-22": {
+            "0": {
+                "start_time": "08:00",
+                "end_time": "09:20",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 307"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "1": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 102"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "2": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 005",
+                    "Salle 007",
+                    "Salle 008",
+                    "Salle 009",
+                    "Salle 101",
+                    "Salle 102"
+                ],
+                "enventCategory": "Examen TD Machine"
+            },
+            "3": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 206"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "4": {
+                "start_time": "08:00",
+                "end_time": "09:20",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A21"
+                ],
+                "rooms": [
+                    "Salle 307"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "5": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 102"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "6": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 005",
+                    "Salle 007",
+                    "Salle 008",
+                    "Salle 009",
+                    "Salle 101",
+                    "Salle 102"
+                ],
+                "enventCategory": "Examen TD Machine"
+            },
+            "7": {
+                "start_time": "14:00",
+                "end_time": "16:50",
+                "name": "4TIN410U Programmation Orientée Objet",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 206"
+                ],
+                "enventCategory": "TD Machine"
+            }
+        },
+        "2026-04-23": {
+            "0": {
+                "start_time": "11:00",
+                "end_time": "13:50",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 007",
+                    "Salle 008",
+                    "Salle 009",
+                    "Salle 101",
+                    "Salle 102",
+                    "Salle 104"
+                ],
+                "enventCategory": "Examen TD Machine"
+            },
+            "1": {
+                "start_time": "11:00",
+                "end_time": "13:50",
+                "name": "4TIN402U Algo structures données arborescentes",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 007",
+                    "Salle 008",
+                    "Salle 009",
+                    "Salle 101",
+                    "Salle 102",
+                    "Salle 104"
+                ],
+                "enventCategory": "Examen TD Machine"
+            }
+        },
+        "2026-04-10": {
+            "0": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 204",
+                    "Salle 205"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "1": {
+                "start_time": "08:00",
+                "end_time": "09:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            },
+            "2": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 107"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "3": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 005"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "4": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 007",
+                    "Salle 008"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 204",
+                    "Salle 205"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "6": {
+                "start_time": "08:00",
+                "end_time": "09:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A33"
+                ],
+                "rooms": [],
+                "enventCategory": "Cours"
+            },
+            "7": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 107"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "8": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 005"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "9": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 007",
+                    "Salle 008"
+                ],
+                "enventCategory": "TD Machine"
+            }
+        },
+        "2026-04-03": {
+            "0": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 107"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "1": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 005"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "2": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 007",
+                    "Salle 008"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "3": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 107"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "4": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 005"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 007",
+                    "Salle 008"
+                ],
+                "enventCategory": "TD Machine"
+            }
+        },
+        "2026-04-24": {
+            "0": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 107"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "1": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 005"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "2": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 207",
+                    "Salle 208"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "3": {
+                "start_time": "09:30",
+                "end_time": "10:50",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A29"
+                ],
+                "rooms": [
+                    "Salle 107"
+                ],
+                "enventCategory": "Cours/TD"
+            },
+            "4": {
+                "start_time": "11:00",
+                "end_time": "12:20",
+                "name": "4TIN408U Architectures Ordinateurs",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 005"
+                ],
+                "enventCategory": "TD Machine"
+            },
+            "5": {
+                "start_time": "14:00",
+                "end_time": "15:20",
+                "name": "4TIN403U Projets technologiques",
+                "sites": [
+                    "Bâtiment A28"
+                ],
+                "rooms": [
+                    "Salle 207",
+                    "Salle 208"
+                ],
+                "enventCategory": "TD Machine"
+            }
+        },
+        "2026-04-28": {
+            "0": {
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Oraux"
+            },
+            "1": {
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Oraux"
+            }
+        },
+        "2026-04-30": {
+            "0": {
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Oraux"
+            },
+            "1": {
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "name": "4TTV426U S4 Explain in English",
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Oraux"
+            }
+        },
+        "2026-04-13": {
+            "0": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            },
+            "1": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            }
+        },
+        "2026-04-06": {
+            "0": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            },
+            "1": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            }
+        },
+        "2026-04-14": {
+            "0": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            },
+            "1": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            }
+        },
+        "2026-04-15": {
+            "0": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            },
+            "1": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            }
+        },
+        "2026-04-16": {
+            "0": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            },
+            "1": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            }
+        },
+        "2026-04-17": {
+            "0": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            },
+            "1": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            }
+        },
+        "2026-04-18": {
+            "0": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            },
+            "1": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            }
+        },
+        "2026-04-19": {
+            "0": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            },
+            "1": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            }
+        },
+        "2026-05-25": {
+            "0": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            },
+            "1": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            }
+        },
+        "2026-05-14": {
+            "0": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            },
+            "1": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            }
+        },
+        "2026-05-01": {
+            "0": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            },
+            "1": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            }
+        },
+        "2026-05-08": {
+            "0": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            },
+            "1": {
+                "start_time": "08:00",
+                "end_time": "N/A",
+                "name": null,
+                "sites": [
+                    "N/A"
+                ],
+                "rooms": [],
+                "enventCategory": "Vacances"
+            }
+        }
+    }
+}
