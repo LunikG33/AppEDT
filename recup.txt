@@ -1,0 +1,28 @@
+<View style={styles.container}>
+      <View style={styles.header}>
+        <TouchableOpacity onPress={goToPreviousDay} style={styles.arrowButton}>
+          <Text style={styles.arrowText}>{"<"}</Text>
+        </TouchableOpacity>
+        <Text style={styles.dateText}>
+          {format(currentDate, "EEEE d MMMM yyyy")}
+        </Text>
+        <TouchableOpacity onPress={goToNextDay} style={styles.arrowButton}>
+          <Text style={styles.arrowText}>{">"}</Text>
+        </TouchableOpacity>
+      </View>
+        <View style={styles.body}>
+          <View style={styles.timeZone}>
+            {scheduleTimes.map((time) => (
+              <View key={time} style={styles.timeCell}>
+                <Text>{time}</Text>
+              </View>
+            ))}
+          </View>
+          <View style={styles.lessonsZone}>
+              {scheduleTimes.map((time) => (
+                <View style={styles.lessonCell}>
+                </View>
+              ))}
+          </View>
+        </View>
+    </View>

@@ -12,6 +12,7 @@ type LessonInfos = {
   type: string;
 };
 
+
 const LessonCell = (props: LessonInfos) => {
   return (
     <View style={styles.lessonCell}>
@@ -21,42 +22,29 @@ const LessonCell = (props: LessonInfos) => {
   );
 };
 
+const currentGroup = "INF401A41"
+const data = require("../assets/json/data.json");
+const groupData = data[currentGroup];
+
 export default function Home() {
   const [currentDate, setCurrentDate] = useState(new Date());
-
+  const formattedDate = format(currentDate, "yyyy-MM-dd");
+  
   const scheduleTimes = ["08:00", "09:30", "11:00", "12:30", "14:00", "15:30", "17:00", "18:30", "20:00"];
 
+  const lessonsForTheDay = () => {
+    const lessons = groupData[formattedDate] || [];
+    const lessonsArray = Object.values(lessons) as LessonInfos[];
+    return lessonsArray.map((lesson: LessonInfos, index: number) => (
+      <Text>salut</Text>
+    ));
+  }
   const goToPreviousDay = () => setCurrentDate((date) => subDays(date, 1));
   const goToNextDay = () => setCurrentDate((date) => addDays(date, 1));
 
   return (
-    <View style={styles.container}>
-      <View style={styles.header}>
-        <TouchableOpacity onPress={goToPreviousDay} style={styles.arrowButton}>
-          <Text style={styles.arrowText}>{"<"}</Text>
-        </TouchableOpacity>
-        <Text style={styles.dateText}>
-          {format(currentDate, "EEEE d MMMM yyyy")}
-        </Text>
-        <TouchableOpacity onPress={goToNextDay} style={styles.arrowButton}>
-          <Text style={styles.arrowText}>{">"}</Text>
-        </TouchableOpacity>
-      </View>
-        <View style={styles.body}>
-          <View style={styles.timeZone}>
-            {scheduleTimes.map((time) => (
-              <View key={time} style={styles.timeCell}>
-                <Text>{time}</Text>
-              </View>
-            ))}
-          </View>
-          <View style={styles.lessonsZone}>
-              {scheduleTimes.map((time) => (
-                <View style={styles.lessonCell}>
-                </View>
-              ))}
-          </View>
-        </View>
+    <View>
+      {lessonsForTheDay()}
     </View>
   );
 }
@@ -106,6 +94,8 @@ const styles = StyleSheet.create({
     backgroundColor: "#fff",
     alignItems: "center",
     borderRadius: 5,
+    minWidth: 40,
+    maxWidth: 60,
   },
   lessonsZone: {
     flex: 8,
